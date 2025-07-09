@@ -1,8 +1,8 @@
 :root{
-    --cor-de-fundo: #282828;
+    --cor-de-fundo: #000000;
     --cor-de-texto: #ffffff;
     --cor-do-cabeçalho: #510e01;
-    --cor-apresentacao: #000000;
+    --cor-apresentacao: #282828;
 }
 body{
     background-color: var(--cor-de-fundo);
