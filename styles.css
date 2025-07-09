@@ -1,8 +1,8 @@
 :root{
-    --cor-de-fundo: #cad3cb;
+    --cor-de-fundo: #282828;
     --cor-de-texto: #ffffff;
-    --cor-do-cabeçalho: #BBB2AB;
-    --cor-apresentacao: #e0d8d2;
+    --cor-do-cabeçalho: #510e01;
+    --cor-apresentacao: #000000;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -30,7 +30,7 @@ img{
     display: flex;
     justify-content: center;
     font-size: 150%;
-    color: #2b422b;
+    color: #7b0d0d;
 }
 
 .imagem{
@@ -85,7 +85,7 @@ img{
 
 
 footer{
-    background-color: #BBB2AB;
+    background-color: #878787;
     color: rgb(255, 255, 255);
     padding: 20px 0 0;
     margin: 20px 0 0;
