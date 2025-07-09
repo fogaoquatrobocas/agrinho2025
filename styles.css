@@ -77,6 +77,7 @@ img{
 
 .fonte{
     font-size: 33px;
+    color: var(--cor-de-texto);
 }
 
 .textozinho{
