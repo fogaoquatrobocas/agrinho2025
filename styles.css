@@ -50,7 +50,7 @@ img{
 
 .blablabla{
     display: flex;
-    background-color: var(--cor-de-texto);
+    background-color: var(--cor-apresentacao);
     border: 2px solid var(--cor-de-texto);
     padding: 20px;
     margin: 20px 0 0;
